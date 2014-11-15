@@ -4,13 +4,13 @@ Write a blog post, they said.
 
 I'd rather be sailing. http://rpgcodex.net/phpBB/images/avatars/gallery/Warcraft%202/footman.png
 
-It's 2014. How hard can it be to get some text to appear on a web page? Harder than I expected since I'm using Windows.
+It's 2014. How hard can it be to get some text to appear on a web page? Harder than I expected, but only becuause I'm using Windows.
 
 == Install Jekyll
 
 Follow the instructions at http://jekyll-windows.juthilo.com/
 
-I had success with ruby 2.1.4, jekyll 2.5.1, wdm 0.1.0, rouge 1.7.2 (instead of pygments).
+I had success with ruby 2.1.4, jekyll 2.5.1, wdm 0.1.0, and rouge 1.7.2. I recommend using rouge over pygments for now, mainly to reduce the setup complexity. You can always switch to pygments later.
 
 Note, during the "gem install jekyll" step, if you have jruby installed (say, for a previous project), you may very well get an error that looks like this:
 ERROR:  Error installing jekyll:
@@ -28,3 +28,7 @@ e to JRuby or set JRUBY_OPTS.
 What this says is that jruby does not support native C extensions.
 
 What this means to you is that due to the quirks of the PATH environment variable, you're using jruby's gem.exe instead of ruby's. The fix is to instead install the jekyll gem via "/c/path/to/ruby/installation/bin/gem install jekyll". This is the only gem I encountered that required this - wdm, rouge, and so on were fine with jruby's gem.exe.
+
+== Start using Jekyll
+
+http://jekyllrb.com/docs/quickstart/

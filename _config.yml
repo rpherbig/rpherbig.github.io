@@ -10,6 +10,6 @@ github_username:  rpherbig
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 gems:
   - jekyll-sitemap

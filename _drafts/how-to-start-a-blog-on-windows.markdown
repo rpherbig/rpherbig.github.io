@@ -36,10 +36,7 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 Then run "bundle install". This will ensure that we are using the same version of everything as GitHub.
 
 TODO: PUT THE OTHER STEPS IN HERE
-- NOTE ROUGE OVER PYGMENTS
-
-TODO: NOTE VERSIONS? SHOULD BE SPECIFIED BY GITHUB-PAGES...
-- ruby 2.1.4, jekyll 2.4.0, wdm 0.1.0, rouge 1.7.2
+- NOTE PYGMENTS IS THE ONLY OPTION FOR GITHUB PAGES
 
 == Start using Jekyll
 

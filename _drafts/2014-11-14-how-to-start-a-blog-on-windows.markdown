@@ -15,16 +15,31 @@ First, a note on gem.exe. If you have jruby installed, running gem at a command 
 NotImplementedError: C extension support is not enabled. Pass -Xcext.enabled=tru
 e to JRuby or set JRUBY_OPTS.
 
-This occurs because jruby's gem.exe does not support native C extensions. The fix is to install the gem via "/c/path/to/ruby/installation/bin/gem install <gemname>".
+This occurs because jruby's gem.exe does not support native C extensions. The fix is to install the gem via "/c/path/to/ruby/installation/bin/gem install gemname".
 
 Now that we have that out of the way, onward!
 
 == Install Jekyll
 
-We will be roughly following the instructions at http://jekyll-windows.juthilo.com/, but with some a few changes.
+We will be roughly following the instructions at http://jekyll-windows.juthilo.com/, but with a few changes.
 
-I've had success with ruby 2.1.4, jekyll 2.4.0, wdm 0.1.0, and rouge 1.7.2. I recommend using rouge over pygments for now, mainly to reduce the setup complexity. You can always switch to pygments later.
+TODO: PUT THE OTHER STEPS IN HERE
 
+Instead of running "gem install jekyll", run "gem install bundler".
+
+Then create a file in your repo named Gemfile. Put the following in it:
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'rouge'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+Then run "bundle install". This will ensure that we are using the same version of everything as GitHub.
+
+TODO: PUT THE OTHER STEPS IN HERE
+- NOTE ROUGE OVER PYGMENTS
+
+TODO: NOTE VERSIONS? SHOULD BE SPECIFIED BY GITHUB-PAGES...
+- ruby 2.1.4, jekyll 2.4.0, wdm 0.1.0, rouge 1.7.2
 
 == Start using Jekyll
 

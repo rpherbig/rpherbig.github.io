@@ -1,10 +1,10 @@
 # Site settings
-title: Robert Herbig's Blog
-email: sheltim@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This will eventually be an awesome description for my new site. For now, it's a placeholder.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rpherbig.com" # the base hostname & protocol for your site
+title: Robert Herbig
+email: robert@rpherbig.com
+description: >
+  My goal is to get better every day.
+baseurl: ""
+url: "http://rpherbig.com"
 twitter_username: rpherbig
 github_username:  rpherbig
 

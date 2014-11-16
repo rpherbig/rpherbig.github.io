@@ -4,3 +4,5 @@ Did you know GitHub will do all of that for you? I hope not, otherwise you may f
 
 == GitHub Pages
 https://pages.github.com/
+
+TODO: Talk about the built-in themes/Jekyll/etc

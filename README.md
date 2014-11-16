@@ -3,6 +3,8 @@ rpherbig.github.io
 
 It's time I start blogging.
 
+Spelling/grammar corrections are appreciated. I suggest using a Pull Request.
+
 ### License
 (Shamlessly copied from [Matt Swanson](http://mdswanson.com))
 

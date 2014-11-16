@@ -5,12 +5,10 @@ layout: post
 
 A wild blog has appeared!
 
-I've pondered blogging for a while now. But somehow I never quite got around to it. Other things always took priority. There was always something else to spend my time on.
+I've considered blogging for a while now, but somehow I never quite got around to it. Other things always took priority. There was always something else to do. I've given it some thought and found what will motivate me to start blogging (I'll write about that too).
 
-Besides, who would want to read what I write? There's always someone more knowledgeable than myself on a given topic and they've probably already written a blogpost about it.
+For now, I'm going to start with a few posts on how to get a simple blog up and running. This is my first time doing this, so it has been (and is being) a good learning opportunity, as well as producing something useful.
 
-Maybe. But maybe not. There's so much going on in the world that maybe, just maybe, I've experienced something that no one else has (or at least has written about). Maybe I can help someone learn from my mistakes and experiences.
+The tech stack I started with is GitHub Pages and Jekyll. A bit later I added in Google Domains for a personalized domain. I'm writing and running Jekyll locally on a Windows machine before deploying to GitHub Pages. I expected this to go smoothly since this seemed like a fairly typical tech stack using popular choices for each component, and the two main platforms (GitHub Pages and Jekyll) are designed to work together.
 
-We've all had times in which we tried to find something on the Internet and came up empty. Or only found other poor souls, asking the same questions, finding the same lack of answers.
-
-Well this is an attempt to fix all that. I'll write about whatever problems I'm solving, and I can only hope someone finds it useful. Starting with how to get a basic blog setup (spoiler: it's harder than it should be).
+Spoiler alert: it's harder than it should be.

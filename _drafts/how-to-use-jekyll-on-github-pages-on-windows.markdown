@@ -4,7 +4,7 @@ Write a blog post, they said.
 
 I'd rather be sailing. http://rpgcodex.net/phpBB/images/avatars/gallery/Warcraft%202/footman.png
 
-It's 2014. How hard can it be to get some text to appear on a web page? Harder than I expected, but only becuause I'm using Windows.
+It's 2014. How hard can it be to get some text to appear on a web page? Harder than I expected, but only because I'm using Windows.
 
 == Ruby and JRuby
 

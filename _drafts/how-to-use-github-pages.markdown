@@ -7,7 +7,7 @@ Blogging should be about the writing, not the mechanism for displaying text. For
 
 Who wants to register a domain, host a site, and pay for it all? Not I. Did you know GitHub will do all of that for you? I didn't, but I'm glad they do.
 
-If you create a repo with a specific name (username.github.io), then GitHub will automatically serve up the content at http://username.github.io. It's the kind of URL you don't take home to mother, but it'll work. And with GitHub taking care of all the hosting headaches, it's worth it.
+If you create a repo with a specific name (username.github.io), then GitHub will automatically serve up the content at http://username.github.io. It's the kind of URL you don't take home to mother, but it'll work (see above about putting the emphasis on the writing). And with GitHub taking care of all the hosting headaches, it's worth it. We'll fix it in a later post.
 
 GitHub's [own site](https://pages.github.com/) does a good job of explaining it in more detail. By the end of their instructions, I had an accessible site and a static index.html.
 

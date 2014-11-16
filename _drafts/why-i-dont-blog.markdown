@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+Other things always took priority. There was always something else to do.
 
 That's an easy one. Because no one
 

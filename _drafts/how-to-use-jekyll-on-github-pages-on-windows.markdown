@@ -44,9 +44,22 @@ TODO: See what a "jekyll new" _config.yml has, and compare to my current version
 
 == Start using Jekyll
 
+Markdown
+http://daringfireball.net/projects/markdown/syntax
+
 http://jekyllrb.com/docs/quickstart/
 
-TODO: Generalize this section - it's still worth mentioning
+http://jekyllrb.com/docs/structure/
+
+http://mike-rogers.github.io/2013/11/23/jekyll-and-pdus-for-fun-and-profit/
+
+https://arktronic.com/weblog/2014-08-09/new-blog-and-new-tea/
+
+https://help.github.com/articles/using-jekyll-with-pages/
+
+== Known issues
+
+TODO: Rewrite this section - it's still worth mentioning
 Note: if you run Jekyll and your highlighter is rouge, you may get an error that looks like this:
 Configuration file: c:/Users/rpherbig/Documents/GitHub/rpherbig.github.io/_confi
 g.yml
@@ -61,3 +74,9 @@ c:/Ruby21-x64/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
 What this says is that it cannot find the rouge gem.
 
 What it means is that the a gem you installed (in this case, rouge) was pre-compiled and not ruby-2.0 compatible. The fix is to instead install the rouge gem via "gem install rouge --platform=ruby", which will force recompilation. See https://github.com/brianmario/yajl-ruby/issues/116 for more details.
+
+
+
+
+
+http://jekyllthemes.org/

@@ -20,10 +20,21 @@ Well this is an attempt to fix all that. I'll write about whatever problems I'm 
 
 
 
-Pragmatic reason:
-* I'll get better at writing.
-* I'll have to clarify my thoughts as I write, improving my understanding of each topic.
-* I'll learn a new tech stack.
+Selfish reasons:
+* Get better at writing (by doing)
+* Introspection: I'm forced to organize my thoughts, which leads to improved understanding of each topic
+** Solidify my understanding?
+** "Writing about a topic encourages you to understand it at a deeper level and helps you communicate ideas better."
+* Learn a some new (or old) techs
+* Establish competence
+* Help others learn how better to work with me
+
+Less selfish reasons:
+* Business development for the company
+** Help SEP win a project
+** Convince a client I should be on their project
+** Surprise old clients with our new tricks
+* Help the reader out with something
 
 
 

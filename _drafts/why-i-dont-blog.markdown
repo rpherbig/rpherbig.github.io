@@ -49,3 +49,9 @@ Make it easier for others to get started.
 
 
 Blogging is all about the writing, not the presentation format.
+
+
+
+I'm not writing for an audience. I'm writing to organize my own thoughts. And to be better at written communication.
+
+I've pretty much not been blogging because I think no one cares what I have to say. I think that's still accurate. But what clicked is that blogging isn't for anyone else, it's for me.

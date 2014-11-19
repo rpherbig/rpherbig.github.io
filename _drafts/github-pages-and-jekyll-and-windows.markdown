@@ -80,6 +80,8 @@ What it means is that the a gem you installed (in this case, rouge) was pre-comp
 
 
 
-
-
 http://jekyllthemes.org/
+
+
+
+Don't commit to any particular topic as the next post.

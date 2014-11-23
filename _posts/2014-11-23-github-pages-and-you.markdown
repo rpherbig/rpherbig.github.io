@@ -5,7 +5,7 @@ layout: post
 
 Blogging should be about the writing, not the mechanism for displaying text. For this grand experiment, the first step is just to get some text served up in the easiest way possible (agile blog design, if you will).
 
-Let's avoid as much work as possible: no custom domain, no hosting, no databse, no theming. How could we possible get away with that? Hint: it's in this post's title.
+Let's avoid as much work as possible: no custom domain, no hosting, no database, no theming. How could we possibly get away with that? Hint: it's in the title.
 
 ----------
 
@@ -17,4 +17,4 @@ Now what? Where to go from here? The end of the GitHub Pages tutorial offers som
 
 Since we're going for simplicity, let's start with turning that static index.html into something a bit more useful. Jekyll is a static website generator that was recommended to me, and in turn I recommend it to you.
 
-GitHub Pages and Jekyll were designed to work together. It's [smooth sailing ahead](https://help.github.com/articles/using-jekyll-with-pages/) as long as you aren't using Windows. If you are, batten down the hatches and hang on. I'll try and steer us around any icebergs in my next post.
+GitHub Pages and Jekyll were designed to work together. It's [smooth sailing ahead](https://help.github.com/articles/using-jekyll-with-pages/) as long as you aren't using Windows. If you are, batten down the hatches and hang on. I'll be writing soon about the edge case that is Windows soon.

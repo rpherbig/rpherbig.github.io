@@ -5,13 +5,13 @@ layout: post
 
 You may have heard of a small company based out of Albuquerque: Micro-Soft. Don't feel bad if you haven't, they're a pretty small company (but keep an eye on them, I hear they're going to have a huge IPO in '86). Because they're such a small player in the market, Jekyll doesn't officially support their operating system. However, Jekyll has endorsed a guide by [@juthilo](https://twitter.com/juthilo) that "[seems to work for most](http://jekyll-windows.juthilo.com/)".
 
-Don't get too excited though, because if you followed my advice and used GitHub Pages, that link is just a red herring (much like Communism, [according to Tim Curry](http://www.imdb.com/title/tt0088930/quotes)). What follows is cherry-picking parts of several guides to get it all working.
+Don't get too excited though, because if you followed my advice and used GitHub Pages, that link is just a red herring (much like Communism, [according to Wadsworth](http://www.imdb.com/title/tt0088930/quotes)). What follows is cherry-picking parts of several guides to get it all working.
 
 ## The Setup
 
 The zeroth thing you'll need to do is [setup your GitHub Pages repository]({% post_url 2014-11-23-github-pages-and-you %}) and clone it locally (left as an exercise to the reader).
 
-The first thing you'll need to do is install Ruby. Follow [page 1](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) of juthilo's guide (but only page 1), then return here.
+The first thing you'll need to do is install Ruby. Follow the instructions on only [page one](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) of juthilo's guide, then return here.
 
 Second, we're going to install Jekyll, but we're going to do so in a way that is compatible with Pages. Open a command prompt (I suggest GitBash), navigate to your repo, and run `gem install bundler`.
 
@@ -30,9 +30,9 @@ Technically, you can stop now. You have the tools to manage your blog. However, 
 
 ## Syntax Highlighting
 
-[Page 3](http://jekyll-windows.juthilo.com/3-syntax-highlighting/) of juthilo's guide has a nice comparison of two popular syntax highlighters (Pygments and Rouge). However, Pages does not support Rouge, so the decision is made for us.
+[Page three](http://jekyll-windows.juthilo.com/3-syntax-highlighting/) of juthilo's guide has a nice comparison of two popular syntax highlighters (Pygments and Rouge). However, Pages does not support Rouge, so the decision is made for us.
 
-Go ahead and follow the steps on page 3 of juthilo's guide, choosing Pygments and skipping Rouge.
+Go ahead and follow the instructions on only [page three](http://jekyll-windows.juthilo.com/3-syntax-highlighting/) of juthilo's guide, choosing Pygments and skipping Rouge.
 
 If you accidentally set your highlighter to Rouge, you'll get an email from GitHub saying that deployment of your site failed, but with an empty error message (needless to say, it took me a while to figure that one out).
 
@@ -46,20 +46,32 @@ Here are some of the more interesting files/directories in your repo right now:
 
 * `.gitignore` specifies files that Git should ignore. You should add `_site` to it.
 
-* `_config.yml` stores, you guessed it, configuration. You should edit it with something more useful.
+* `_config.yml` stores, you guessed it, configuration. You should update the placeholders with something more useful.
 
-* `about.md` is your "About" page. You should edit it with something more useful.
+* `about.md` is your "About" page. You should update it with something more useful.
 
-* `README.md` was probably created when you made the repo, and has nothing to do with Jekyll. It is only visible when someone browses GitHub, not your site. Nonetheless, you should update it.
+* `README.md` was created when you made the repo on GitHub, and has nothing to do with Jekyll. It is only visible when someone browses GitHub, not your site. Nonetheless, you should update it.
 
 * A more complete list can be found on the [official Jekyll site](http://jekyllrb.com/docs/structure/).
 
 To publish a new post, simply create a files in `_posts/`. Files in this directory must be named `YEAR-MONTH-DAY-title.extension`, where extension is either of the two supported formats ([.markdown](http://daringfireball.net/projects/markdown/) or [.textile](http://redcloth.org/textile)). More information can be found on the [official Jekyll site](http://jekyllrb.com/docs/posts/).
 
+## Drafts
+
+If you're like me and have multiple machines, you may be interested in the "drafts" functionality offered by Jekyll (drafts are simply unpublished posts).
+
+Create a `_drafts/` directory and commit your works-in-progress to it. These files will not be shown on your site and you have all of the advantages of git as you work on your drafts.
+
+You can preview your drafts by adding the `--drafts` switch when you build or serve Jekyll locally. Drafts will then show up as if they were published posts.
+
+To publish a draft, simply run `git mv _drafts/title.extension _posts/YEAR-MONTH-DAY-title.extension` (adding the date to the new file name is important.
+
+## What's Next?
+
+From here, there are lots of things still to explore. Some ideas: theming, custom domains, making new pages (not posts; e.g. a "contact me" page), RSS vs atom, analytics... this is new to me, so I'm not sure what I'll do next. If you have a suggestion or request, feel free to drop me a line (check the footer for my contact info).
 
 
 
-http://jekyllrb.com/docs/drafts/
 
 http://mike-rogers.github.io/2013/11/23/jekyll-and-pdus-for-fun-and-profit/
 
@@ -67,6 +79,7 @@ https://arktronic.com/weblog/2014-08-09/new-blog-and-new-tea/
 
 https://help.github.com/articles/using-jekyll-with-pages/
 
+http://jekyllrb.com/docs/pages/
 
 http://jekyllthemes.org/
 

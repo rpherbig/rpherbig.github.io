@@ -3,8 +3,11 @@ title: Why I Started Blogging
 layout: post
 ---
 
-TODO: Intro
 
+TODO:
+* Intro
+* https://sites.google.com/site/steveyegge2/you-should-write-blogs
+* http://www.shubhro.com/2014/12/27/software-engineers-should-write/
 
 
 ## Why I Wasn't Blogging

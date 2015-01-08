@@ -1,7 +1,13 @@
 A place to put tidbits that aren't yet a fully fledged concept or post.
 
 
+## Jekyll Theming
 
+
+## RSS vs Atom
+
+
+## Analytics
 
 
 ## Ruby version compatibility

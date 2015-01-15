@@ -3,7 +3,7 @@ OR
 How to Succeed By Failing
 
 
-I saw this recently in a blog post:
+Quoting this:
 <<<<<
 Take no action on failure other than to ask what was learned 
 When a team fails in a particular area I often say the following: 
@@ -11,6 +11,15 @@ When a team fails in a particular area I often say the following:
 By always leading with the “I do not care who did it” you establish a safe failure zone. The individual knows that he will not “get in trouble” for his failure. The team knows that they are supported. 
 Celebrate the failure as a learning opportunity. 
 >>>>>
+
+
+Prototypes should fail. Iteration 1 (or v1) should fail. The key is to learn from the failure and improve.
+
+
+Experiments are very valuable.
+
+
+Fail fast. Now how can you fail even faster?
 
 
 It is critical that the team is given time to properly assess the failure. Demanding constant status reports will slow down and demoralize the team.

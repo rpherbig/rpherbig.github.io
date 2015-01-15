@@ -7,3 +7,5 @@ https://help.github.com/articles/my-custom-domain-isn-t-working/
 A record to 192.30.252.153 and 192.30.252.154?
 
 CNAME - www to username.github.io
+
+No limit on invitations!

@@ -3,7 +3,11 @@ OR
 How to Succeed By Failing
 
 
-Quoting this:
+Jeff Patton:
+"The goal of our prototypes isn't to fail fast, it's to learn cheaply."
+
+
+Charles Tippett:
 <<<<<
 Take no action on failure other than to ask what was learned 
 When a team fails in a particular area I often say the following: 
@@ -29,3 +33,6 @@ Metrics are a tool like any other. If you tie your definition of success to a pa
 
 
 http://mike-rogers.github.io/2014/11/15/builds-should-fail-sometimes/
+
+
+Do not overcorrect when compensating from or learning from a failure. Be especially careful when making changes as a result of a failure that could not have been foreseen.

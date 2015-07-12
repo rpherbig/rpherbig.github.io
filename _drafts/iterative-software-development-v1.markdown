@@ -1,3 +1,8 @@
+http://alistair.cockburn.us/Incremental+versus+iterative+development
+
+
+
+
 ## What is iterative software development?
 
 http://www.applitude.se/2011/02/difference-between-incremental-and-iterative/

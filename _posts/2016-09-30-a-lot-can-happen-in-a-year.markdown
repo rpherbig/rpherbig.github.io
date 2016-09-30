@@ -16,6 +16,7 @@ The default front end had some [basic scripting capabilities](https://www.play.n
 "But Herbig, you yada yada'd over the best part!" I hear you say. That's right - no one writes 20,000 lines of code without some good stories to tell. Rob and I will be writing more posts in the future about some of the interesting things we've done for this project.
 
 In the meantime, I'll leave you with some numbers, because who doesn't love numbers?
+
 * [First commit](https://github.com/rpherbig/dr-scripts/commit/1f41330ff94a3220ae80d89f29b91304c1382f80): Oct 16, 2015
 * 17 contributors
 * 3468 commits

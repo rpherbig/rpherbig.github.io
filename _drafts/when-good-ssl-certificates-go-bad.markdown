@@ -15,7 +15,7 @@ That's no way to greet people visiting my blog. Proceeding to the site gives a b
 
 It turns out that this is a known problem when using GitHub Pages and a custom domain. In fact, it's been a problem since at least 2014. I'm not sure how it took me this long to notice, but enough is enough - it's time to do something about this.
 
-## You only need one piece of flare
+## You only need [one piece of flare](https://www.youtube.com/watch?v=KJtrLKGZZFg)
 
 Enter Cloudflare, stage right. Cloudflare's product sits between the end user (you, reading this blog post) and the content server (in this case, GitHub Pages). Cloudflare offers a [whole lot of services](https://www.cloudflare.com/) - among them making it easy to configure SSL (image courtesy of [CloudFlare's blog post on the introduction of strict SSL](https://blog.cloudflare.com/introducing-strict-ssl-protecting-against-a-man-in-the-middle-attack-on-origin-traffic/)):
 ![](/images/Cloudflare_Full_SSL.png)

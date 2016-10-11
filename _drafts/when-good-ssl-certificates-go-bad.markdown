@@ -3,8 +3,6 @@ title: When Good SSL Certificates Go Bad
 layout: post
 ---
 
-## It's good to be back
-
 I recently [wrote a blog post](https://www.rpherbig.com/2016/09/30/a-lot-can-happen-in-a-year.html) after a long period of inactivity and I got some feedback. The most common response was "you blog?" - but the second most common response was "hey, [your SSL certificate is bad](https://www.youtube.com/watch?v=jG2KMkQLZmI)". This was rather unexpected since I use GitHub Pages specifically to avoid having to think about that sort of thing.
 
 Sure enough, when I went to www.rpherbig.com in Chrome I got an Unsafe Site warning:

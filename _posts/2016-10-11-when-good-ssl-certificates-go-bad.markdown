@@ -27,7 +27,7 @@ All of our hard work only matters if the visitor is using HTTPS, so let's force 
 
 For a custom domain, it's a bit trickier. You will need to create up to three Page Rules in Cloudflare (depending on if you're using a `www` subdomain like I am):
 
-<table>
+<table border="1">
     <tr>
         <th>URL matches</th>
         <th>Setting</th>

@@ -29,8 +29,8 @@ For a custom domain, it's a bit trickier. You will need to create up to three Pa
 
 <table>
     <tr>
-        <td>URL matches</td>
-        <td>Setting</td>
+        <th>URL matches</th>
+        <th>Setting</th>
     </tr>
     <tr>
         <td>http://rpherbig.com/*</td>

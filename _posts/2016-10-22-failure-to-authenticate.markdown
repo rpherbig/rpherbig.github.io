@@ -1,9 +1,9 @@
 ---
-title: What We've Got Here is a Failure to Authenticate
+title: What We've Got Here is Failure to Authenticate
 layout: post
 ---
 
-In [the previous post](TODO), we set up server-side rules to redirect HTTP traffic to HTTPS. Using HTTPS ensures that the client and server are communicating securely and that no one is [intercepting the traffic](https://en.wikipedia.org/wiki/Man-in-the-middle_attack). An example of this redirection is in row 1:
+In [the previous post](/2016/10/11/when-good-ssl-certificates-go-bad.html), we set up server-side rules to redirect HTTP traffic to HTTPS. Using HTTPS ensures that the client and server are communicating securely and that no one is [intercepting the traffic](https://en.wikipedia.org/wiki/Man-in-the-middle_attack). An example of this redirection is in row 1:
 
 ![](/images/URL_Redirects.png)
 

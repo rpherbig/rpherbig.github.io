@@ -41,16 +41,21 @@ The beauty of this system is that scripts are purely additive - they do not take
 I asked some of the folks using our scripts what they thought (names have been removed for privacy):
 
 Person 'E':
+
 > I use scripts to train, and perform matters of rote for me so that I can spend the time I would normally be available to play as an opportunity to roleplay and interact with others instead of feeling pressured to work on progressing. Without scripting i feel like i have to choose between roleplaying and making progress given the time sink involved. Scripting enables me to enjoy both sides with giving one up.
 
 Person 'C':
+
 > I find watching my character play the game through logic I've written (or some else) is really satisfying. Writing a script to do some complicated task, watching it fail terribly, fixing it and then finally when it works for the first time; it feels like an accomplishment. And less to the point, you have this really nice collaborative project going so we can all share and improve on each others work. Also time is a precious commodity for people, having it spent on braiding grass or really any DR skill training is not adding to my immersion in any game world. I think its interesting the first time, so you see a flavor of how it works, read the text, and form a mental image of what your character is doing... but beyond that its just a waste of time really.
 
 Person 'I':
+
 > I agree, I think of DR as the ultimate grind and scripts help with that.
 
 Person 'N':
+
 > Just wanted to say thanks again for the amazing amount of work you all do on this. It's changed DR for me.
 
 Person 'V':
+
 > I would also venture to say that in writing a script you’re taking a deeper look at what you’re doing, which is fun. In writing a script you’re taking the time to think about it and make it efficient. You’re thinking about why you’re responding to things and how you react and why. That’s pretty neat. I wish there was a way to force me into that mental framework in everyday life, I’d probably be a better person lol.

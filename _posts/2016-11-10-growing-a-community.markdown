@@ -17,9 +17,7 @@ This is part of an ongoing series of posts about a side project I am working on 
 > com·mu·ni·ty
 
 > 1. **a group of people living in the same place or having a particular characteristic in common.**
-
 > 2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.
-
 > 3. a group of interdependent organisms of different species growing or living together in a specified habitat.
 
 When I started playing DragonRealms (DR), I wasn't really focused on the community. I was busy learning new mechanics, exploring the world, and listening to Rob wax nostalgic about his time in DR (15 years ago). And to be honest, the game systems themselves somewhat discouraged new players from interacting with other players:
@@ -40,9 +38,7 @@ DR's chat channels have the [usual problems](https://www.penny-arcade.com/comic/
 > com·mu·ni·ty
 
 > 1. a group of people living in the same place or having a particular characteristic in common.
-
 > 2. **a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.**
-
 > 3. a group of interdependent organisms of different species growing or living together in a specified habitat.
 
 One of the things that [Lich](https://lichproject.org/) supports by default is a set of chat channels (hereafter, Lnet) that go through the Lich servers, rather than the DR servers. That means those channels do not need to adhere to the DR policies. DR does not ([and will not](http://forums.play.net/forums/DragonRealms/The%20Moon%20Mages/General%20Discussions%20-%20Moon%20Mages/thread/1811680)) support out-of-character (OOC) chat, whereas Lnet does.
@@ -60,9 +56,7 @@ The Lich community is also resilient to disruption. A few months ago some well-k
 > com·mu·ni·ty
 
 > 1. a group of people living in the same place or having a particular characteristic in common.
-
 > 2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.
-
 > 3. **a group of interdependent organisms of different species growing or living together in a specified habitat.**
 
 When we [began writing our scripts](https://github.com/rpherbig/dr-scripts/commit/1f41330ff94a3220ae80d89f29b91304c1382f80), we took a very Agile approach. Write what we needed for our characters, add settings and configuration that worked for us, and expand the scripts' capabilities over time as we encountered new needs or edge cases. This was fantastic for rapid development - getting the most functionality in the least development time.

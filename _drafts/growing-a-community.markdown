@@ -22,16 +22,16 @@ This is part of an ongoing series of posts about a side project I am working on 
 
 > 3. a group of interdependent organisms of different species growing or living together in a specified habitat.
 
-When I started playing DragonRealms (DR), I wasn't really focused on the community. I was busy learning new mechanics, exploring the world, and listening to Rob wax nostalgic about his time in DR - 15 years ago. And to be honest, the game systems themselves somewhat discouraged new players from interacting with other players:
+When I started playing DragonRealms (DR), I wasn't really focused on the community. I was busy learning new mechanics, exploring the world, and listening to Rob wax nostalgic about his time in DR (15 years ago). And to be honest, the game systems themselves somewhat discouraged new players from interacting with other players:
 
 * I had no money to buy things from the community, and no skills that can contribute back to the community (e.g. crafting)
 * Most of my time was spent hunting rats to make enough coin to repair my gear to get back out hunting rats
-* Specific player-made items are needed to get access to most of the in-game chat systems (which I could not afford)
-* Many questions were answered with a link to the [(mostly) official wiki](https://elanthipedia.play.net/Main_Page), but some content is inaccurate or out of date - just enough to create some confusion with a new player
-* There is a newbie help chat system, which includes other newbies and volunteer mentors (members of the DR community who are of above-average helpfulness) - though as volunteers, they aren't always available
-* The character-growth model of DR (perhaps the subject of a future blog post) encourages players to maximize the number of skills they train, which disincentivizes players from spending time idle (e.g. chatting)
+* Specific player-made items (which I could not afford) are needed to access most of the in-game chat systems
+* Many questions were answered with a link to the [(mostly) official wiki](https://elanthipedia.play.net/Main_Page), but just enough content is inaccurate or out of date to confuse a new player
+* There is a newbie help chat system which includes other newbies and volunteer mentors (members of the DR community who are of above-average helpfulness) - though as volunteers, they aren't always available
+* The character-growth model of DR (perhaps the subject of a future blog post) encourages players to maximize the number of skills they train, which disincentivizes players from spending time idle (e.g. chatting or helping a new person)
 
-I mean, you *know* you are part of a community when you play a multiplayer game, but at first you don't really KNOW it... you know? Luckily for me, Rob was a great help, as were a few other players I ran into by seeking out popular hangout spots. And as with any other community, there is a learning curve: 20 years worth of informal rules, systems, and conventions have formed. Some of those are unspoken, undocumented, and few people will take the time to explain them. Ask me about the NPC healer sometime... It's also hard when most of the in-game chat systems are strictly "in character" - that is, from your character's point of view. It's hard to get Ogg the Barbarian to explain the nuances of a complex system, even if Ogg's player wants to help.
+I mean, you *know* you are part of a community when you play a multiplayer game, but at first you don't really KNOW it... you know? Luckily for me, Rob was a great help, as were a few other players I ran into by seeking out popular hangout spots. And as with any other community, there is a learning curve: 20 years of informal rules, systems, and conventions have formed. Some of those are unspoken, undocumented, and few people will take the time to explain them. Ask me about the NPC healer sometime... It's also hard when most of the in-game chat systems are strictly "in character" - that is, from your character's point of view. It's hard to get Ogg the Barbarian to explain the nuances of a complex system, even if Ogg's player wants to help.
 
 DR's chat channels have the [usual problems](https://www.penny-arcade.com/comic/2004/03/19) (strong language warning!) that crop up when you mix a normal person, anonymity, and an audience. There are some official policies around how this is kept in check, and the topic comes up constantly in DR forum discussions. There are even changes being implemented right now to the chat systems to try and reduce trolling and griefing (being deliberately irritating to upset others). I suspect there are many reasons for this, and it's not an easy problem to solve.
 
@@ -51,7 +51,7 @@ I believe this strengthens the Lich community - I've seen wonderful conversation
 
 There are a few training strategies that have become pretty popular in the Lich community (optimizing training would be a good future blog post), one of which requires a specific item that is hard to get. One generous Licher went and bought 20 of the item and handed them out to everyone that needed one - but they still had 10 left over. They wanted a way to make the items accessible to other Lichers in the future, but DR does not have an easy way to do that. In order to support cooperation, we created a character who only exists to share items within the community. Anyone can contribute items or request them.
 
-We have another player whose character is a healer. He could be out in the game world training, but instead has decided to contribute back to the community by making himself available to heal Lichers. Everyone knows to first check if he is around before finding another healer (who often charge for their services and tend to be slower).
+We have another player whose character is a healer. He could be out in the game world training, but instead has decided to contribute back to the community by making himself available to heal Lichers. Everyone knows to first check if he is around before finding another healer (who are often slower and charge money for their services).
 
 The Lich community is also resilient to disruption. A few months ago some well-known trolls and griefers joined Lnet. With their usual tactics, they tried to antagonize Lichers, who wisely decided not to engage with their antics. Instead, we simply continued having fun. Without people feeding their bad behavior, they got bored and either left or stopped being disruptive. Either way, the Lich community is better for it (and maybe we converted some of them to be productive members!). I hope that as we get more popular and our population grows, we will continue to foster good behavior.
 
@@ -69,7 +69,7 @@ When we [began writing our scripts](https://github.com/rpherbig/dr-scripts/commi
 
 But it also meant that we tackled error paths and edge cases as we encountered them. Our code was not perfectly robust from the start, and for the most part, that was fine. Most errors just stopped a script, and since we were at the keyboard, we would fix the problem and restart it. At worst a character might lose an item (ask Rob about his cleric's shield sometime).
 
-But occasionally, rarely, there would be a bug that was *noisy*. Typically these errors would be a broken `while` loop or bad conditional `return` that would result in spamming a room with commands. Even if we reacted in a few seconds, hundreds of commands would have been sent. After the first of these it was clear that we had to be responsibile members of the scripting (and/or Lich) community, as members of the larger DR community.
+But occasionally, rarely, there would be a bug that was *noisy*. Typically these errors would be a broken `while` loop or bad conditional `return` that would result in spamming a room with commands. Even if we reacted in a few seconds, hundreds of commands would have been sent. After the first of these it was clear that we had to be responsible members of the scripting (and/or Lich) community, as members of the larger DR community.
 
 To that end, we implemented a few different strategies in our scripts:
 
@@ -94,11 +94,11 @@ Person 'M':
 
 Person 'A':
 
-> By the way just wanted to thank everyone in lich for being so helpful. I wasnt sure if I was going to stick around but going to be upgrading my account and unlocking my old one.
+> By the way just wanted to thank everyone in lich for being so helpful. I wasn't sure if I was going to stick around but going to be upgrading my account and unlocking my old one.
 
 Person 'F':
 
-> I just started playing this again because they sent out free codes. If it weren't for the lich community, i'd be gone again already.
+> I just started playing this again because they sent out free codes. If it weren't for the lich community, I'd be gone again already.
 
 Person 'K2':
 

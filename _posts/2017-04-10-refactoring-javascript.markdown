@@ -1,5 +1,5 @@
 ---
-title: Refactoring JavaScript: a play in three acts
+title: Refactoring JavaScript - a play in three acts
 layout: post
 ---
 

@@ -15,11 +15,11 @@ Security is hard. No, really hard. Ok, maybe not quite as hard as that. But it i
 
 ## There are new attack vectors
 
-Most IoT devices have not traditionally been Internet-enabled (or, in some cases, digital devices at all!). This radical shift results in new attack vectors that we are still learning how to understand. The IoT community needs to explore the implications of new devices with new capabilities in new contexts.
+Many of the current-day IoT devices are only recently Internet-enabled. In some cases, they're only recently even *digital*. This is a radical shift in capabilities and platforms which results in new attack vectors that we are still trying to understand. We need to explore the implications of new devices with new capabilities in new contexts.
 
 A perfect example is the prevalence of accelerometers. They are in nearly every smart phone out there, as well as other devices people keep on their person like pedometers. However, many people do not know they are a component in their devices, and many of those devices trust the accelerometer data too much. Who would think of an accelerometer as an attack vector? [These researchers](https://spqr.eecs.umich.edu/papers/trippel-IEEE-oaklawn-walnut-2017.pdf), for one. They came up with a series of [acoustic attacks](https://spqr.eecs.umich.edu/walnut/) that can inject false data.
 
-[Alexa](https://developer.amazon.com/alexa) is the voice service that powers the Amazon Echo. This allows customers to use their voice to interact with devices. It is a great capability to have around the house, but its risk profile has to be carefully considered. We all know someone that [enjoys pranks](https://xkcd.com/1807/) (there is a relevant XKCD for everything!) But I bet most customers never considered what could happen if a newscaster accidentally [used the magic words](http://www.cw6sandiego.com/news-anchor-sets-off-alexa-devices-around-san-diego-ordering-unwanted-dollhouses/) on TV.
+[Alexa](https://developer.amazon.com/alexa) is the voice service that powers the Amazon Echo. This allows customers to use their voice to interact with devices. It is a great capability to have around the house, but its risk profile has to be carefully considered. We all know someone that enjoys pranks (there is a relevant [XKCD][] for everything!) But I bet most customers never considered what could happen if a newscaster accidentally [used the magic words](http://www.cw6sandiego.com/news-anchor-sets-off-alexa-devices-around-san-diego-ordering-unwanted-dollhouses/) on TV.
 
 I hope the buyer understood the implications of buying a [wireless-enabled sniper rifle](https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/). I hope the city council understood the implications of investing in [light bulbs that could talk to each other](http://iotworm.eyalro.net/).
 
@@ -80,7 +80,9 @@ Maybe consumers will start to take notice if a [new trend of malware](https://ar
 
 ## Why is IoT different than what we have seen in the past?
 
-These are the growing pains we have seen countless times before (and will again in the future) across various industries. That said, there are some interesting differences:
+These are the growing pains we have seen countless times before (and will again in the future) across various industries. Devices are being connected in new and novel ways. The "arms race" between attack and defense is changing very rapidly. New techniques are being developed on both sides.
+
+However, now the number of devices involved is much larger, with a correspondingly larger impact if things go wrong. Why is that?
 * Never before have so many connected devices been so physically accessible
 * Many of these devices are being made by companies without a strong background in security
 * Speed to market is a key metric in this emerging market
@@ -91,9 +93,7 @@ These are the growing pains we have seen countless times before (and will again 
 
 In short, security is not often made a priority or given enough attention (either time or money).
 
-Won't the market self-correct? Not with the current economic incentives. Neither the manufacturer nor consumer have a reason to prioritize security because the cost of failure is externalized. Even if the consumer was security conscious, there is too much [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) between consumers and manufacturers. Consumers cannot easily find most of the information they would need to truly evaluate competing products.
-
-This is similar to the 1990s and 2000s. Devices are being connected in new and novel ways. The "arms race" between attack and defense is changing very rapidly. New techniques are being developed on both sides. However, now the number of devices involved is much larger, with a correspondingly larger impact if things go wrong.
+Won't the market self-correct? Not with the current economic incentives. Neither the manufacturer nor consumer have a reason to prioritize security because the cost of failure is externalized. Even if the consumer were security conscious, there is too much [information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) between consumers and manufacturers. Consumers cannot easily find most of the information they would need to truly evaluate competing products.
 
 ## Where do we go from here?
 
@@ -104,3 +104,5 @@ We need to change the economic incentives described above. To align manufacturer
 That is where [government regulation comes in](http://www.computerworld.com/article/3136650/security/after-ddos-attack-senator-seeks-industry-led-security-standards-for-iot-devices.html). No one likes regulation for its own sake. No one wants the government involved unless it is necessary. But regulation works for pollution and other externalized problems (you've probably heard of the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)), and it [could work here](https://www.schneier.com/blog/archives/2016/11/regulation_of_t.html) too.
 
 At the same time, we need to find a way to make security easier to get right. For software and hardware development, [industry-supported guidelines](https://www.schneier.com/blog/archives/2017/02/security_and_pr.html) would go a long way to setting a baseline expectation. In addition to the purely technical concerns, we need guidelines for design and user experience. [Mika Stahlberg](https://safeandsavvy.f-secure.com/2015/08/24/6-reasons-the-internet-of-things-is-difficult-to-secure/) rightfully points out that "ease-of-use, especially during set up, is critical for these kinds of products". Making security features more accessible to the consumer would go a long way towards improving security.
+
+[XKCD]: https://xkcd.com/1807/ "Listening"

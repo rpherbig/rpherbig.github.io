@@ -1,5 +1,5 @@
 ---
-title: Security and the Internet of Things
+title: Security in the Age of the Internet of Things
 layout: post
 ---
 

@@ -7,14 +7,14 @@ highlight_color: '#3498db'
 social:
   github: rpherbig
   #bitbucket: rpherbig
-  #hacker_news: 
-  #stackexchange: 
+  #hacker_news:
+  #stackexchange:
   #stackoverflow: 1470274
-  twitter: rpherbig
-  #facebook: 
-  #tumblr: 
+  twitter: robertherbig
+  #facebook:
+  #tumblr:
   linkedin: robertherbig
-  #gplus: 
+  #gplus:
 
 # "Hi, I'm _______"
 name: Robert Herbig
@@ -22,7 +22,7 @@ email: robert@rpherbig.com
 #tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: 
+google_analytics_key:
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true

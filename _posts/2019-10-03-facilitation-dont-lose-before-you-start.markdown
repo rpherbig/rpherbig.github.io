@@ -5,8 +5,10 @@ So you've been asked to facilitate a workshop for a team? Awesome, it'll be fun.
 ## Before the Workshop
 
 > You better think (think)
+
 > Think about what you're trying to do
-- Aretha Franklin
+
+-- Aretha Franklin (https://en.wikipedia.org/wiki/Aretha_Franklin)
 
 Someone had to feel strongly enough about this to put a multi-hour block of time on the team's calendar. This is the First Stakeholder. Start with them. You need to understand what they want out of this workshop. What outcomes will make them call this a success?
 
@@ -20,7 +22,7 @@ If necessary, circle back with the First Stakeholder. Help them understand what 
 
 Pick the right time of day. If you have a team of night-owls, don't expect a lot of dazzling creativity at 8am. If the team gets into the office before 8am, don't plan the meeting for the late afternoon. If the workshop is early, provide breakfast. If it's around lunchtime, provide lunch.
 
-Daniel Pink wrote a book called "When" (link to https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624) which goes into more depth on the topic of _chronobiology_. If you can, plan activities to occur at the appropriate time of day to correspond with type of thinking involved. https://news.stlpublicradio.org/post/take-more-breaks-4-other-facts-about-author-daniel-pinks-scientific-secrets-perfect-timing
+Daniel Pink (https://www.danpink.com/) wrote a book called "When" (https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624) which goes into more depth on the topic of _chronobiology_. If you can, plan activities to occur at the appropriate time of day to correspond with type of thinking involved. Here's a quick summary (https://news.stlpublicradio.org/post/take-more-breaks-4-other-facts-about-author-daniel-pinks-scientific-secrets-perfect-timing).
 
 ## Planning the Workshop
 
@@ -74,7 +76,8 @@ How involved you are in the after phase varies. In my experience, the best resul
 ## Key Takeaways
 
 > No campaign plan survives first contact with the enemy
-- Field Marshall Helmuth Graf von Moltke
+
+-- Field Marshal Helmuth Graf von Moltke (https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder)
 
 Improvise, adapt, and overcome.
 

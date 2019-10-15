@@ -6,7 +6,7 @@ So you want to facilitate a workshop for a team? Maybe you're external to the te
 
 > Think about what you're trying to do
 
--- Aretha Franklin (https://en.wikipedia.org/wiki/Aretha_Franklin)
+-- [Aretha Franklin](https://en.wikipedia.org/wiki/Aretha_Franklin)
 
 ## Ask The Right Question
 

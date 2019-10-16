@@ -14,13 +14,13 @@ The workshop should be answering a question. That gives all of the participants 
 
 ## Get to Know Your Stakeholders
 
-Someone had to feel strongly enough about this to put a multi-hour block of time on the team's calendar. This is the First Stakeholder. Start with them. You need to understand what they want out of this workshop. What outcomes will make them call this a success? Help them understand their role in the workshop: getting the right people in the room, taking a step back, and letting the team be awesome.
+If one person felt strongly enough about this to put a multi-hour block of time on the team's calendar, that's your First Stakeholder. Start with them. You need to understand what they want out of this workshop. What outcomes will make them call this a success? Help them understand their role in the workshop: getting the right people in the room, taking a step back, and letting the team be awesome. If there is no such person, that's fine too.
 
 Hopefully the First Stakeholder has conveyed their vision of success to the team. Validate that assumption. Talk to the rest of the team. Understand what they want to get out of the workshop. It's better to discover any differences ahead of time rather than in the workshop itself.
 
 Take advantage of those conversations with the team members to hear their perspectives, their pains, their goals for the workshop. Is it scheduled at the same time as their kid's play at school but they're forced to attend? That's good to know. Find out who on the team is quiet, who interrupts, who isn't afraid to speak their mind. Find out who on the team likes the status quo and [doesn't feel change is necessary](https://hbr.org/2013/07/hidden-danger-of-being-risk-averse).
 
-Sometimes it's necessary to have a second sit-down with the First Stakeholder - if what you're learning isn't making sense, or there are incompatible goals, if some constraints can't possibly be met, etc. Help them understand what you've learned. Be the team's advocate and share the team's perspective.
+If what you're learning isn't making sense, or there are incompatible goals, if some constraints can't possibly be met, etc. then have a second sit-down with the First Stakeholder or with the team as a whole. Help them understand what you've learned. The workshop simply won't be successful as framed - the direction needs to change. Be supportive and advocate for the team and the individuals you've talked to.
 
 ## Learn the Team's Communication Style
 
@@ -84,11 +84,11 @@ Compare where you are with the original goals. End with concrete action items. A
 
 ## After the Workshop
 
-How involved you are in the after phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. [You're the chicken, not the pig.](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)
+How involved you are in the 'after' phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. [You're the chicken, not the pig.](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)
 
 ## Key Takeaways
 
-Do you need to consider everything here? Not necessarily. Be pragmatic. Spend more or less time based on the importance of the meeting and the risk vs reward.
+Do you need to consider everything I mentioned here? Not necessarily - be agile and lean and pragmatic. Spend more or less time preparing based on the importance of the meeting and the expected return of that prep time.
 
 > Plans are worthless, but planning is everything.
 

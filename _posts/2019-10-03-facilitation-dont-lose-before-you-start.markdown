@@ -26,11 +26,11 @@ Sometimes it's necessary to have a second sit-down with the First Stakeholder - 
 
 Ask if the team has established any norms (especially around communication styles) or shared vocabulary. You as facilitator need to be aware of these and use them in the workshop. If they don't, be prepared to suggest some at the workshop. A good baseline could include:
 
-* Assume the best in each other (https://www.simplypsychology.org/fundamental-attribution.html)
-* Don't interrupt the person talking (https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know/)
-* Everyone's contributions are valuable (https://rework.withgoogle.com/print/guides/5721312655835136/)
-* The first idea is rarely the best idea (https://www.americanpressinstitute.org/need-to-know/offbeat/scientific-reason-first-idea-rarely-best-one/)
-* Our goal is _healthy_ conflict (https://www.tablegroup.com/books/dysfunctions)
+* [Assume the best in each other](https://www.simplypsychology.org/fundamental-attribution.html)
+* [Don't interrupt the person talking](https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know/)
+* [Everyone's contributions are valuable](https://rework.withgoogle.com/print/guides/5721312655835136/)
+* [The first idea is rarely the best idea](https://www.americanpressinstitute.org/need-to-know/offbeat/scientific-reason-first-idea-rarely-best-one/)
+* [Promote _healthy_ conflict](https://www.tablegroup.com/books/dysfunctions)
 
 ## Pick the Right Time of Day
 
@@ -84,7 +84,7 @@ Compare where you are with the original goals. End with concrete action items. A
 
 ## After the Workshop
 
-How involved you are in the after phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. You're the chicken, not the pig (https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig).
+How involved you are in the after phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. [You're the chicken, not the pig.](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)
 
 ## Key Takeaways
 

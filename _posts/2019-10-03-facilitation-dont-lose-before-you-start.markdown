@@ -106,7 +106,9 @@ How involved you are in the 'after' phase varies. In my experience, the best res
 
 ## Key Takeaways
 
-You should consider everything I mentioned here. Be deliberate. That doesn't mean you need to invest time trying to account for every possible outcome - be agile and lean and pragmatic. Spend more or less time preparing based on the importance of the meeting and the expected return of that prep time.
+You know your context better than I do. To butcher something said by the famous George Orwell, [break any of these rules before doing something that doesn't make sense](https://en.wikipedia.org/wiki/Politics_and_the_English_Language#Remedy_of_Six_Rules).
+
+You should still consider everything I mentioned here. Be deliberate. That doesn't mean you need to invest time trying to account for every possible outcome - be agile and lean and pragmatic. Spend more or less time preparing based on the importance of the meeting and the expected return of that prep time.
 
 > Plans are worthless, but planning is everything.
 

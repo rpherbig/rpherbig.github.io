@@ -52,7 +52,7 @@ The first part of any workshop should be to remind the team **why** they're here
 
 ### Pick the Right Activities
 
-If I tried to talk about specific activities this would turn into a book. And it turns out Esther Derby and Diana Larsen already wrote a great book on this topic: [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649). Think of it as a cookbook with recipes for activities. The activities are broadly broken up into three categories: gathering data, generating insights, and deciding what to do. There's a description of each activity and a quick note about what the team should expect to get out of it.
+If I tried to talk about specific activities, this article would turn into a book. Luckily for us, Esther Derby and Diana Larsen already wrote the book: [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649). Think of it as a cookbook with recipes for activities. The activities are broadly broken up into three categories: gathering data, generating insights, and deciding what to do. There's a description of each activity and a quick note about what the team should expect to get out of it.
 
 Every activity should get the team closer one step closer to accomplishing its goal.
 
@@ -64,9 +64,13 @@ There are three types of activities in most workshops:
 * Mechanical or Administrative - the most straightforward. Example: "Draw a diagram of the system as it is today."
 * Intellectual or Analytical - sometimes requires focused attention. Problem solving. Example: "What steps do we need to take to mitigate the problems in the system?"
 
-In general, I would start the workshop with an emotional activity. Bonding or trust building helps to get people comfortable speaking with each other. On the other hand, if the team needs to wake up (say they're night owls at a morning workshop), I suggest starting with a mechanical activity to warm up.
+In general, I would start the workshop with an emotional activity. Bonding or trust building helps to get people comfortable speaking with each other. On the other hand, if the team needs to wake up (say, they're night owls at a morning workshop), I suggest starting with a mechanical activity to warm up.
 
-Don't have too many activities of the same type in a row.
+> The majority of presentations are purely analytical. They offer information but no human connection. The goal is to mix analytical content with emotional content, which creates contrast and therefore creates interest.
+
+-- [Nancy Duarte](https://www.duarte.com/persuasive-presentations-dont-be-boring-your-presentations-missing-secret-ingredient-part-2/)
+
+She is talking about presentations, but her advice applies here too: vary up the types of activities to keep people interested.
 
 ### Know Your Audience
 
@@ -74,21 +78,31 @@ As the facilitator, your audience is the team you'll be working with in the work
 
 For example, if there are team members who are naturally quiet or aren't comfortable speaking up, most activities can be adjusted to help them out. A typical brainstorming activity could start with 5 minutes of silent brainstorming. That same change would help out team members who aren't comfortable thinking out loud or extemporaneously.
 
-### Build Breaks Into the Schedule
+### Mitigate Common Stressors
 
-Plan to take breaks about every hour. Each activity should either be done within an hour or be able to be paused for a few minutes at the one hour mark. Read the room and go longer or shorter as appropriate.
+> We find that the percentage of favorable rulings drops gradually from ≈65% to nearly zero within each decision session and returns abruptly to ≈65% after a break. Our findings suggest that judicial rulings can be swayed by extraneous variables that should have no bearing on legal decisions.
+
+-- [Extraneous factors in judicial decisions](https://www.pnas.org/content/108/17/6889.short)
+
+Don't let easily controllable _extraneous factors_ cause distraction or reduce the effectiveness of the team. If they fail, it should be on their own lack of merit (I kid, I kid!). If the workshop intrudes on a mealtime, provide food. Regardless, provide snacks and drinks. Being [hangry](https://www.merriam-webster.com/dictionary/hangry) is a real thing!
+
+Likewise, plan to take breaks about every hour. Each activity should either be done within an hour or be able to be paused for a few minutes at the one hour mark. Read the room and go longer or shorter as appropriate.
 
 ### Pace Yourself
 
-Estimate time for each activity (range, not single point). Know what you want to do if it goes longer or shorter.
+Estimate time for each activity (range, not single point). Know what you want to do if the workshop is running fast, or what can be cut or shortened if the workshop is going slow.
 
 ## End With Action Items
 
-Compare where you are with the original goals. End with concrete action items, with deadlines or target dates when possible. Assign a person to each one. Set the team up to succeed.
+Set the team up to succeed:
+* Recap where you ended up with the original goals. Were they all met? What remains undiscussed?
+* End with concrete action items.
+* Action items should have deadlines or target dates when possible.
+* Each action item should be assigned to one person. If everyone is responsible for an item, [no one is responsible for it](https://en.wikipedia.org/wiki/Diffusion_of_responsibility).
 
 ## After the Workshop
 
-How involved you are in the 'after' phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. [You're the chicken, not the pig.](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)
+How involved you are in the 'after' phase varies. In my experience, the best results come from the team committing and the facilitator offering to be available for advice, suggestions, and help. [You're the chicken, not the pig](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig).
 
 ## Key Takeaways
 

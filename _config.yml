@@ -13,3 +13,4 @@ markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag

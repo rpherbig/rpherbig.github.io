@@ -22,7 +22,7 @@ email: robert@rpherbig.com
 #tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: 'UA-150728687-1'
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true

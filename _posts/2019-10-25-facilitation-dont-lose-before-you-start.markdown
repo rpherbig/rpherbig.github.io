@@ -1,5 +1,5 @@
 ---
-title: Facilitation: Don't Lose Before You Start
+title: "Facilitation: Don't Lose Before You Start"
 layout: post
 ---
 

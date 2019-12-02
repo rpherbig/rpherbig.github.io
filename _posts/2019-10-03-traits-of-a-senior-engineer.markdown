@@ -1,3 +1,7 @@
+Self-starting (maybe a predictor rather than a trait, or both?)
+
+Not technical competence (not something I would have guessed when I was young)
+
 ## What Does It Mean to be a Senior Engineer?
 
 As a team lead, I coach and mentor many junior engineers. One topic that always comes up is "What does it mean to be a 

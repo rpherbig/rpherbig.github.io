@@ -114,7 +114,6 @@ fresh in their mind, you're going to get more pointed feedback from your
 readers. The more direct and specific the feedback, the easier it is to take
 action based on it.
 
-## Find an appropriate external venue
 ## Give a Brown Bag
 
 Our brown bags are thirty minute talks given to our colleagues within the

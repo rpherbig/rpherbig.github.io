@@ -3,6 +3,8 @@ title: "Conference Talk Roadmap"
 layout: post
 ---
 
+<link rel="canonical" href="https://www.sep.com/sep-blog/2019/12/01/conference-talk-roadmap/" />
+
 *Co-authored by [Jordan Thayer](https://jordanthayer.com/) and [Robert Herbig](https://www.rpherbig.com/)*
 
 [Presenting information to your peers is an important part of an any career](https://www.inc.com/carmine-gallo/public-speaking-is-no-longer-a-soft-skill-its-your-key-to-success-in-any-field.html), especially engineering:

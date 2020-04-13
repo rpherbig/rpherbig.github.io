@@ -3,6 +3,8 @@ title: "Facilitation: Don't Lose Before You Start"
 layout: post
 ---
 
+<link rel="canonical" href="https://www.sep.com/sep-blog/2019/10/25/facilitation-dont-lose-before-you-start/" />
+
 So you want to facilitate a workshop for a team? Maybe you're external to the team and have been asked to help by facilitating. Awesome, it'll be fun. Just show up at the time and place annnnnnnd you've already lost.
 
 > You better think (think)

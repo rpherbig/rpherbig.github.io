@@ -3,6 +3,8 @@ title: "Is Artificial Intelligence Worth the Hype?"
 layout: post
 ---
 
+<link rel="canonical" href="https://www.sep.com/sep-blog/2020/04/13/is-ai-worth-the-hype/" />
+
 ![](/images/Gartner_Hype_Cycle.svg)
 
 *Image courtesy of Jeremykemp at [English Wikipedia](https://commons.wikimedia.org/wiki/File:Gartner_Hype_Cycle.svg) / [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*

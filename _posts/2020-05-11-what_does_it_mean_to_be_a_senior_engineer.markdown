@@ -1,13 +1,11 @@
 ---
-title: "Is Artificial Intelligence Worth the Hype?"
+title: "What Does It Mean to be a Senior Engineer?"
 layout: post
 ---
 
 <link rel="canonical" href="https://www.sep.com/sep-blog/2020/05/11/what-does-it-mean-to-be-a-senior-engineer/" />
 
 ![](/images/SEP-Around-the-Office-01-2019-108.jpg)
-
-## What Does It Mean to be a Senior Engineer?
 
 As a team lead, I coach and mentor many junior engineers. One topic that always comes up is "What does it mean to be a Senior Engineer?" That's easy, you just... have a four-year degree from an accredited college? Work for 10 years and don't get fired? Learn 3 front-end technologies? Check some boxes on a promotion form?
 

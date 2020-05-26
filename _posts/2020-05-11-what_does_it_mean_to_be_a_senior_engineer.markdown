@@ -30,8 +30,8 @@ For example, how long should we investigate one option before pivoting to anothe
 ## Curiosity Mindset
 
 > I have something to learn from everyone I meet.
-
--- [Dave Mott](https://www.linkedin.com/in/david-mott-sse/)
+>
+> -- [Dave Mott](https://www.linkedin.com/in/david-mott-sse/)
 
 There are many ways to name the following concept. Which resonates with you will depend on your personal lens. "[Curiosity mindset](https://www.harvardbusiness.org/the-importance-of-being-curious/)" or "[growth mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)" resonate with some; others prefer "humility" or "[egolessness](http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming)". Whatever you call it, what is important is to be aware of your assumptions and biases. Moreso, to be aware that you must question those assumptions and biases routinely.
 

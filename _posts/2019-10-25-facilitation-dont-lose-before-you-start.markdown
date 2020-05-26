@@ -12,8 +12,8 @@ So you want to facilitate a workshop for a team? Maybe you're external to the te
 > You better think (think)
 > 
 > Think about what you're trying to do
-
--- [Aretha Franklin](https://en.wikipedia.org/wiki/Aretha_Franklin)
+>
+> -- [Aretha Franklin](https://en.wikipedia.org/wiki/Aretha_Franklin)
 
 ## Ask The Right Question
 
@@ -74,8 +74,8 @@ There are three types of activities in most workshops:
 In general, I would start the workshop with an emotional activity. Bonding or trust building helps to get people comfortable speaking with each other. On the other hand, if the team needs to wake up (say, they're night owls at a morning workshop), I suggest starting with a mechanical activity to warm up.
 
 > The majority of presentations are purely analytical. They offer information but no human connection. The goal is to mix analytical content with emotional content, which creates contrast and therefore creates interest.
-
--- [Nancy Duarte](https://www.duarte.com/persuasive-presentations-dont-be-boring-your-presentations-missing-secret-ingredient-part-2/)
+>
+> -- [Nancy Duarte](https://www.duarte.com/persuasive-presentations-dont-be-boring-your-presentations-missing-secret-ingredient-part-2/)
 
 She is talking about presentations, but her advice applies here too: vary up the types of activities to keep people interested.
 
@@ -88,8 +88,8 @@ For example, if there are team members who are naturally quiet or aren't comfort
 ### Mitigate Common Stressors
 
 > We find that the percentage of favorable rulings drops gradually from ≈65% to nearly zero within each decision session and returns abruptly to ≈65% after a break. Our findings suggest that judicial rulings can be swayed by extraneous variables that should have no bearing on legal decisions.
-
--- [Extraneous factors in judicial decisions](https://www.pnas.org/content/108/17/6889.short)
+>
+> -- [Extraneous factors in judicial decisions](https://www.pnas.org/content/108/17/6889.short)
 
 Don't let easily controllable _extraneous factors_ cause distraction or reduce the effectiveness of the team. If they fail, it should be on their own lack of merit (I kid, I kid!). If the workshop intrudes on a mealtime, provide food. Regardless, provide snacks and drinks. Being [hangry](https://www.merriam-webster.com/dictionary/hangry) is a real thing!
 
@@ -118,8 +118,8 @@ You know your context better than I do. To butcher something said by the famous 
 You should still consider everything I mentioned here. Be deliberate. That doesn't mean you need to invest time trying to account for every possible outcome - be agile and lean and pragmatic. Spend more or less time preparing based on the importance of the meeting and the expected return of that prep time.
 
 > Plans are worthless, but planning is everything.
-
--- [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
+>
+> -- [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
 
 Improvise, adapt, and overcome.
 

@@ -33,6 +33,7 @@ Why is _building a team out of individuals_ equally important? Delivering workin
 Fully half of the Agile Manifesto's Principles are about people, because that's how we get long-term success. To really "figure out what needs to change" and "then change it" requires more than just a collection of individuals, [it requires a team](http://eleganthack.com/design-the-team-you-need-to-succeed/). That doesn't happen by accident.
 
 > The researchers found that what really mattered was less about who is on the team, and more about how the team worked together.
+>
 > -- [re:Work](https://rework.withgoogle.com/print/guides/5721312655835136/)
 
 ## Principles beget a Process
@@ -42,6 +43,7 @@ Just like Scrum is a process for implementing the Principles of Agile, this is t
 First, when getting work to flow, do the simplest thing that could possibly work. Rinse and repeat. It's not easy, but it is straightforward. The most important thing is to break the "Blank Canvas" effect, deliver something, and show progress.
 
 > In Dual Track Development and a project starting up, your demos might be a prototype, and not working code. That's ok. The point is to show progress.
+>
 > -- [Poppe Guthrie](https://www.linkedin.com/in/whoispoppe)
 
 Second, make it safe for teammates to talk to each other. Psychological safety, trust, vulnerability, and shared vocabulary are the keywords here. As a team lead with a team of excellent engineers, I consider that my primary job responsibility. If I can help the team be safe, they'll self-organize and do things better than I could have imagined. If someone is feeling that "paradox of choice" anxiety, my job is to give them confidence that things will get better in time.

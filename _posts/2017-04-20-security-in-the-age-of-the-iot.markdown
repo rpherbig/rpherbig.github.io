@@ -3,6 +3,8 @@ title: Security in the Age of the Internet of Things
 layout: post
 ---
 
+<link rel="canonical" href="https://sep.com/blog/security-age-internet-things/" />
+
 The Internet of Things is big. No, really big. No, even bigger than that. How big? My colleague Brad Boyer explains it better than I could (and handily defines the *thing* part of IoT, too). [Go read it](https://www.sep.com/sep-blog/2015/10/22/how-big-is-iot/) - I'll wait.
 
 Welcome back!

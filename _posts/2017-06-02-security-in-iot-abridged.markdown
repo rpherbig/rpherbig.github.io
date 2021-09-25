@@ -3,6 +3,8 @@ title: Security in the Age of the Internet of Things (abridged)
 layout: post
 ---
 
+<link rel="canonical" href="http://techpoint.org/2017/05/security-age-internet-things/" />
+
 *Originally published at [TechPoint](http://techpoint.org/2017/05/security-age-internet-things/).*
 
 The Internet of Things is [growing fast](https://www.postscapes.com/internet-of-things-market-size/). Connecting so many devices leads to better decisions, safety, and efficiency. But with this comes new security challenges. We, as the defenders, are in a constant arms race against malicious actors. They can fail to attack a system one hundred times and be no worse off. But it only takes one mistake in our defense for them to win. We have seen these growing pains countless times before (and will again) as technology changes.

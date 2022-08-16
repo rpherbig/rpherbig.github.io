@@ -17,7 +17,7 @@ One final note before we get started: **risk management and recording assumption
 
 # Step 1 - create the backlog
 
-Everyone has their own way to do this part. My preferred method is Story Mapping([1](https://www.jpattonassociates.com/user-story-mapping/), [2](https://www.sep.com/blog/hate-estimating-try-doing-a-user-story-map-instead/)) using [Miro](https://miro.com/).
+Everyone has their own way to do this part. My preferred method is Story Mapping([1](https://www.jpattonassociates.com/user-story-mapping/), [2](https://cardboardit.com/2019/05/hate-estimating-try-doing-a-user-story-map-instead/)) using [Miro](https://miro.com/).
 
 # Step 2a (optional) - sample the backlog
 	

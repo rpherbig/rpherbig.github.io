@@ -1,5 +1,5 @@
 ---
-title: "Software Forecasting: My Process"
+title: "One Lead's Journey to Successfully Improving My Software Forecasting With Monte Carlo Simulation"
 layout: post
 ---
 
@@ -17,13 +17,13 @@ One final note before we get started: **risk management and recording assumption
 
 # Step 1 - create the backlog
 
-Everyone has their own way to do this part. My preferred method is Story Mapping([1](https://www.jpattonassociates.com/user-story-mapping/), [2](https://cardboardit.com/2019/05/hate-estimating-try-doing-a-user-story-map-instead/)) using [Miro](https://miro.com/).
+Everyone has their own way to do this part. My preferred method is Story Mapping([Jeff Patton on User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/), [Hate Estimating? Try doing a User Story Map instead](https://cardboardit.com/2019/05/hate-estimating-try-doing-a-user-story-map-instead/)) using [Miro](https://miro.com/).
 
 # Step 2a (optional) - sample the backlog
-	
+
 A key component of a forecast is the size of the backlog. Ideally we would estimate the size of every backlog item.
 
-When that's not feasible, we can use sampling to reduce the backlog-to-be-sized to a manageable amount ([1](https://medium.com/forecasting-using-data/sampling-an-introduction-b116d075e180), [2](https://medium.com/forecasting-using-data/sampling-probability-and-certainty-3e105e065138), [3](https://medium.com/forecasting-using-data/sampling-applying-to-software-forecasting-a97cb10e2f23)) with a minimal impact on forecast quality. More samples means higher confidence that the samples are representative of the whole, but also takes more time to size.
+When that's not feasible, we can use sampling to reduce the backlog-to-be-sized to a manageable amount ([Sampling, an Introduction](https://medium.com/forecasting-using-data/sampling-an-introduction-b116d075e180) and [Sampling, probability and certainty](https://medium.com/forecasting-using-data/sampling-probability-and-certainty-3e105e065138), [Sampling, probability and certainty](https://medium.com/forecasting-using-data/sampling-applying-to-software-forecasting-a97cb10e2f23)) with a minimal impact on forecast quality. More samples means higher confidence that the samples are representative of the whole, but also takes more time to size.
 
 | Samples | Probability the next sample falls within the previously seen range |
 | ----------- | ----------- |
@@ -82,7 +82,7 @@ From that starting point, adjust up or down based on factors such as:
 * Is the feedback or release cadence going to be longer or shorter than usual?
 * How many external dependencies does the team have?
 
-Troy has a [Worksheet](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Growth%20Assumption%20Canvas.pdf) with more guidance and an [entire chapter in his book](https://medium.com/forecasting-using-data/chapter-8-estimating-what-else-scope-growth-dec308d7d37f) for even more depth.
+Troy Magennis has a [Worksheet](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Growth%20Assumption%20Canvas.pdf) with more guidance and an [entire chapter in his book](https://medium.com/forecasting-using-data/chapter-8-estimating-what-else-scope-growth-dec308d7d37f) for even more depth.
 
 # Step 4b - estimate velocity (throughput) (pace)
 
@@ -100,7 +100,7 @@ Once we have a baseline velocity, adjust up or down based on factors such as:
 
 Speaking of [external dependencies](https://twitter.com/t_magennis/status/1388581947178328065), identifying and understanding them is a [prerequisite for forecasting](https://twitter.com/t_magennis/status/999489948183969792). If that wasn't done as part of step 1, spend some time on that before proceeding.
 
-Troy has a [Worksheet](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Pace%20Assumption%20Canvas.pdf) with more guidance.
+Troy Magennis has a [Worksheet](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Canvas%20and%20Forms/Pace%20Assumption%20Canvas.pdf) with more guidance.
 
 # Step 4c - forecasting the delivery
 

@@ -112,4 +112,4 @@ Links used in this post:
 * [Wikipedia page for abstract-syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (AST)
 * [JSCodeShift on GitHub](https://github.com/facebook/jscodeshift)
 * [AST Explorer](http://astexplorer.net/)
-* [AST type definitions](https://github.com/benjamn/ast-types/tree/master/def)
+* [AST type definitions](https://github.com/benjamn/ast-types/tree/master/src/def)

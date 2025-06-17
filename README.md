@@ -14,3 +14,10 @@ The following directories and their contents are copyright Robert Herbig. You ma
 * _posts/
 
 All other directories and files are MIT Licensed.
+
+### Running locally
+
+```ruby
+gem install
+bundle exec jekyll serve
+```

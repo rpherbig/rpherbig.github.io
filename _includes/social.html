@@ -6,6 +6,12 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.sessionize %}
+  <a title="{{ site.data.theme.name }} on Sessionize" href="https://sessionize.com/{{ site.data.theme.social.sessionize }}">
+    <i class="fa-solid fa-microphone"></i>
+  </a>
+  {% endif %}
+
   {% if site.data.theme.social.bluesky %}
   <a title="{{ site.data.theme.social.bluesky }} on Bluesky" href="https://bsky.app/profile/{{ site.data.theme.social.bluesky }}">
     <i class="fa-brands fa-bluesky"></i>

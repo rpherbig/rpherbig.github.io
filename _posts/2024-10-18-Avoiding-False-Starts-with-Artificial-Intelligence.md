@@ -14,6 +14,30 @@ layout: post
 
 ## Abstract
 
+Artificial Intelligence (AI) is no longer science fiction; it's here today, and it's here to stay. It is in the products you use every day: home automation, digital assistants, or credit card fraud detection, just to name a few.
+
+All businesses will be affected by AI in the coming years, and the impact will be significant. The only remaining question is, how will you influence its effect on your company?
+
+Getting started with AI is a daunting task, but necessary for businesses who want to stay competitive. During this session, we'll discuss:
+
+* How to determine if, where, and how to use AI effectively within your organization 
+* When and how to build an AI team
+* Common early mistakes and pitfalls when getting started with AI
+* Typical misconceptions around AI and its application
+* What to look for in an AI partner or potential hire
+
+Learning objectives
+
+* AI and humans have complementary capabilities
+* AI understands only what we tell it
+* Automation is better with a human-in-the-loop
+* Algorithms are as prejudiced as their data
+* AI means "thinking" differently
+
 ## Tags
 
 ## Description of target audience
+
+* Folks who provide technical leadership
+* Those who make technical steering decisions within a company
+* Developers interested in seeing how AI fails via malicious compliance

@@ -5,7 +5,7 @@ layout: post
 
 ## Links
 
-* Indy Cloud Conf 2020: https://www.youtube.com/watch?v=4kGST2BC25A
+* Indy Cloud Conf 2020: [Recording](https://www.youtube.com/watch?v=4kGST2BC25A)
 
 ## Abstract
 

@@ -5,8 +5,8 @@ layout: post
 
 ## Links
 
-* Course registration: https://www.apisecuniversity.com/courses/building-security-into-ai
-* APISEC|CON 2025 course introduction: https://www.youtube.com/watch?v=1wZIy2gdwKQ
+* [APISEC|CON 2025 course introduction](https://www.youtube.com/watch?v=1wZIy2gdwKQ)
+* [Course registration](https://www.apisecuniversity.com/courses/building-security-into-ai)
 
 ## Abstract
 

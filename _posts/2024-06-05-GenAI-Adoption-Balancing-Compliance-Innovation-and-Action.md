@@ -5,7 +5,7 @@ layout: post
 
 ## Links
 
-* SEPTalks 2024: https://sep.com/event/septalks-event-genai-adoption/
+* SEPTalks 2024: [Landing Page](https://sep.com/event/septalks-event-genai-adoption/), [Recording](https://vimeo.com/954499694)
 
 ## Abstract
 

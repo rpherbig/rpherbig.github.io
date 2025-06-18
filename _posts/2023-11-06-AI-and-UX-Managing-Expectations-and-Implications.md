@@ -5,7 +5,7 @@ layout: post
 
 ## Links
 
-* Delta CX Hive, episode 206: https://www.youtube.com/watch?v=dcUJEXftu20
+* Delta CX Hive, episode 206: [Recording](https://www.youtube.com/watch?v=dcUJEXftu20)
 
 ## Abstract
 

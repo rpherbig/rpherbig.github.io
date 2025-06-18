@@ -5,7 +5,7 @@ layout: post
 
 ## Links
 
-* SEPTalks Webinar 2023: https://sep.com/event/ai-webinar/
+* SEPTalks Webinar 2023: [Landing Page](https://sep.com/event/ai-webinar/), [Recording](https://coda.io/d/AI-SEP_dEEHO0bSlx6/new-Conference-Talk-Tracking_sujbmE6o)
 
 ## Abstract
 

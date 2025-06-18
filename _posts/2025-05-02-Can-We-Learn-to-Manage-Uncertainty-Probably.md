@@ -10,7 +10,7 @@ layout: post
 * KCDC 2024: [Slides](https://www.dropbox.com/scl/fi/157vvcw9pt2eaqp9mav2d/Can-We-Learn-to-Manage-Uncertainty_-Probably-KCDC-2024.pdf?rlkey=yslitfr392posdepi35o01ubs&st=8yq75kdg&dl=0)
 * CodeMash 2024: [Slides](https://www.dropbox.com/scl/fi/iyjtrhsgbsrpmp73nlyzo/Can-We-Learn-to-Manage-Uncertainty_-Probably-CodeMash-2024.pdf?rlkey=t5fiqrm3bgghon9wzoqnfpfz0&st=o8w3nqdp&dl=0)
 * Momentum Developer Conference 2023
-* Indy.Code() 2023
+* Indy.Code() 2023: [Recording](https://vimeo.com/855521262)
 
 ## Abstract
 

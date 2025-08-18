@@ -5,9 +5,9 @@ layout: post
 
 ## Given at
 
-* dev up Conference 2025
-* KCDC 2024: [Slides](https://www.dropbox.com/scl/fi/jurrdwhz4owhqmidok807/When-is-a-Regular-Expression-Better-Than-Artificial-Intelligence_-KCDC-2024.pdf?rlkey=t278mw9znl1g4xjnt4ugploy9&st=wfbra18c&dl=0)
-* CodeMash 2023
+* [dev up Conference](https://www.devupconf.org/) 2025: [Slides](https://www.dropbox.com/scl/fi/kt6pe4fa3dv4dw9drweew/When-is-a-Regular-Expression-Better-Than-Artificial-Intelligence_-Dev-Up-2025.pdf?rlkey=m8svv5kgcs6273a1f8ynuok56&dl=0)
+* [KCDC](https://www.kcdc.info/) 2024: [Slides](https://www.dropbox.com/scl/fi/jurrdwhz4owhqmidok807/When-is-a-Regular-Expression-Better-Than-Artificial-Intelligence_-KCDC-2024.pdf?rlkey=t278mw9znl1g4xjnt4ugploy9&st=wfbra18c&dl=0)
+* [CodeMash](https://codemash.org/) 2023
 * Indy.Code() 2022
 
 ## Abstract

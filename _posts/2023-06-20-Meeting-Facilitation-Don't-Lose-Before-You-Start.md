@@ -5,7 +5,7 @@ layout: post
 
 ## Given at
 
-* KCDC 2023
+* [KCDC](https://www.kcdc.info/) 2023
 
 ## Abstract
 

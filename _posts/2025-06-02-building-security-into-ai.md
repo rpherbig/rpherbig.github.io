@@ -5,8 +5,9 @@ layout: post
 
 ## Links
 
-* [APISEC CON 2025 course introduction](https://www.youtube.com/watch?v=1wZIy2gdwKQ)
+* APISEC CON 2025 course introduction: [Recording](https://www.youtube.com/watch?v=1wZIy2gdwKQ)
 * [Course registration](https://www.apisecuniversity.com/courses/building-security-into-ai)
+* freeCodeCamp: [Recording](https://www.youtube.com/watch?v=0xah5jMflcI)
 
 ## Abstract
 

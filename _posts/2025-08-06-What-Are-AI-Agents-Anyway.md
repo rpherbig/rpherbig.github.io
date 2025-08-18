@@ -5,7 +5,7 @@ layout: post
 
 ## Links
 
-* [dev up Conference](https://www.devupconf.org/) 2025
+* [dev up Conference](https://www.devupconf.org/) 2025: [Slides](https://www.dropbox.com/scl/fi/jkdzxbpub2191xm01q1rc/What-Are-AI-Agents-Anyway_-Dev-Up-2025.pdf?rlkey=i94in9cvbcohg9imdrtk17gzt&dl=0)
 
 ## Abstract
 

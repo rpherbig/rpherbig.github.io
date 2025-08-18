@@ -5,9 +5,9 @@ layout: post
 
 ## Given at
 
-* Momentum Developer Conference 2024: [Slides](https://www.dropbox.com/scl/fi/0iuerxwwwngagxuiz5iza/What-Does-Security-Look-Like-When-Building-AI-Momentum-2024.pdf?rlkey=8awl0xcionv4wnu65eb1efb5f&st=yhut4flz&dl=0)
-* StirTrek 2024: [Recording](https://www.youtube.com/watch?v=eV0MGEE36-8), [Slides](https://www.dropbox.com/scl/fi/p7j9v0cthyev38czzsywk/What-Does-Security-Look-Like-When-Building-AI-StirTrek-2024.pdf?rlkey=vyk6dfetqda30oypz7p1j85m9&st=gp4l2l8i&dl=0)
-* CodeMash 2024: [Slides](https://www.dropbox.com/scl/fi/tzi5l0qrjul5mrzrd5pf7/What-Does-Security-Look-Like-When-Building-AI_-CodeMash-2024.pdf?rlkey=acpcly7i4pbqcjszwqwq0gcho&st=9ustd8c7&dl=0)
+* [Momentum Developer Conference](https://momentumdevcon.com/) 2024: [Slides](https://www.dropbox.com/scl/fi/0iuerxwwwngagxuiz5iza/What-Does-Security-Look-Like-When-Building-AI-Momentum-2024.pdf?rlkey=8awl0xcionv4wnu65eb1efb5f&st=yhut4flz&dl=0)
+* [StirTrek](https://stirtrek.com/) 2024: [Recording](https://www.youtube.com/watch?v=eV0MGEE36-8), [Slides](https://www.dropbox.com/scl/fi/p7j9v0cthyev38czzsywk/What-Does-Security-Look-Like-When-Building-AI-StirTrek-2024.pdf?rlkey=vyk6dfetqda30oypz7p1j85m9&st=gp4l2l8i&dl=0)
+* [CodeMash](https://codemash.org/) 2024: [Slides](https://www.dropbox.com/scl/fi/tzi5l0qrjul5mrzrd5pf7/What-Does-Security-Look-Like-When-Building-AI_-CodeMash-2024.pdf?rlkey=acpcly7i4pbqcjszwqwq0gcho&st=9ustd8c7&dl=0)
 
 ## Abstract
 

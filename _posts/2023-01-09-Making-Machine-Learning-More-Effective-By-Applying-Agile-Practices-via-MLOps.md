@@ -5,8 +5,8 @@ layout: post
 
 ## Given at
 
-* CodeMash 2023
-* Nebraska.Code() 2022
+* [CodeMash](https://codemash.org/) 2023
+* [Nebraska.Code()](https://nebraskacode.amegala.com) 2022
 
 ## Abstract
 

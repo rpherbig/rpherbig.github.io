@@ -39,7 +39,7 @@ Ask if the team has established any norms (especially around communication style
 * [Don't interrupt the person talking](https://www.belbin.com/resources/blogs/belbin-and-project-aristotle-everything-you-need-to-know/)
 * [Everyone's contributions are valuable](https://rework.withgoogle.com/print/guides/5721312655835136/)
 * [The first idea is rarely the best idea](https://www.americanpressinstitute.org/need-to-know/offbeat/scientific-reason-first-idea-rarely-best-one/)
-* [Promote _healthy_ conflict](https://www.tablegroup.com/books/dysfunctions)
+* [Promote _healthy_ conflict](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/)
 
 Of course, just because the team _says_ they have some established or agreed-upon norms doesn't mean they'll be executed perfectly. The usual facilitator responsibility still applies. Having talked about it, though, helps hold the team accountable to what they said.
 

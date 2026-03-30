@@ -77,7 +77,7 @@ Psychological safety means individuals feel confident they won't be embarrassed 
 
 Shared vocabulary is necessary to make sure what people are saying is what others are hearing.
 
-*   I like [The Five Dysfunctions of a Team](https://www.tablegroup.com/books/dysfunctions/) as a starting point for a shared mental model for our goals as a team. It doesn't take long to describe and I haven't met anyone yet that strongly disagreed with it. The goal here is not a perfect prescriptive model, it's to establish shared concepts.
+*   I like [The Five Dysfunctions of a Team](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/) as a starting point for a shared mental model for our goals as a team. It doesn't take long to describe and I haven't met anyone yet that strongly disagreed with it. The goal here is not a perfect prescriptive model, it's to establish shared concepts.
 *   The [Tuckman model](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) of group development resonates with many teams. It sets the team's expectations for how it will change over time. Progression between stages is often described as linear, when in reality a team may move back-and-forth between stages.
 *   Talking about the [fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error) gives the team a way to hold each other accountable.
 *   If yours is a team which likes feedback, consider the [Motivating by Appreciation Inventory](https://mbainventory.com/). It helps people understand how to give & show appreciation and deliver & receive feedback.

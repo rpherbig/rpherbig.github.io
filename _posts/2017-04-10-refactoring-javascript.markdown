@@ -71,7 +71,7 @@ return root.find(j.VariableDeclaration, {
            .toSource();
 ```
 
-According to the AST for the target code, what we found will be replaced with a *FunctionDeclaration* node. If we created this node by hand, we would have to manage a lot of AST-related details: line numbers, object references, parent relationships, etc. Luckily JSCodeShift provides builder functions such as `j.functionDeclaration(...)` to do that for us. According to the [FunctionDeclaration definition](https://github.com/benjamn/ast-types/blob/master/def/core.js#L174-L177), that node is built with `id`, `params`, and `body`. We can get those from the *VariableDeclaration* and *ArrowFunctionExpression* nodes we found above.
+According to the AST for the target code, what we found will be replaced with a *FunctionDeclaration* node. If we created this node by hand, we would have to manage a lot of AST-related details: line numbers, object references, parent relationships, etc. Luckily JSCodeShift provides builder functions such as `j.functionDeclaration(...)` to do that for us. According to the [FunctionDeclaration definition](https://github.com/benjamn/ast-types/blob/master/src/def/core.ts#L186), that node is built with `id`, `params`, and `body`. We can get those from the *VariableDeclaration* and *ArrowFunctionExpression* nodes we found above.
 
 ```javascript
 function replaceNode(nodePath) {

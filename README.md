@@ -18,6 +18,7 @@ All other directories and files are MIT Licensed.
 ### Running locally
 
 ```ruby
-gem install
+gem install bundler
+bundle install
 bundle exec jekyll serve
 ```

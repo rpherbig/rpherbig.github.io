@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.data.theme.name }} - {{ page.title }}</title>
   <meta name="author" content="{{ site.data.theme.name }}" />
-  <meta name="theme-color" content="{{ site.data.theme.highlight_color }}" />
+  <meta name="theme-color" content="#3498db" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#5bb8f5" media="(prefers-color-scheme: dark)" />
   <meta name="description" content="The blog of {{ site.data.theme.name }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
@@ -13,7 +14,34 @@
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{site.url}}/atom.xml" />
 
-  <style>:root { --highlight-color: {{ site.data.theme.highlight_color }}; }</style>
+  <style>
+    :root {
+      --highlight-color: #3498db;
+      --bg-color: #fff;
+      --text-color: #222;
+      --heading-color: #181818;
+      --muted-color: #aaa;
+      --subtle-color: #666;
+      --border-color: #ddd;
+      --border-light-color: #eee;
+      --code-bg: #eef;
+      --code-border: #ddd;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --highlight-color: #5bb8f5;
+        --bg-color: #1a1a2e;
+        --text-color: #e0e0e0;
+        --heading-color: #f0f0f0;
+        --muted-color: #888;
+        --subtle-color: #999;
+        --border-color: #333;
+        --border-light-color: #2a2a2a;
+        --code-bg: #252540;
+        --code-border: #333;
+      }
+    }
+  </style>
   <link rel="stylesheet" href="/assets/css/all.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 

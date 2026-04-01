@@ -9,15 +9,15 @@ html, body {
 
 body {
   font-size: 16px;
-  background-color: white;
-  color: #222222;
+  background-color: var(--bg-color);
+  color: var(--text-color);
   line-height: 24px;
   margin: 0;
   border-top: 7px solid var(--highlight-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #181818;
+  color: var(--heading-color);
   font-family: "open sans", sans-serif;
   font-weight: 600;
 }
@@ -86,20 +86,20 @@ ul.posts li {
 
 ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
-  color: #aaa;
+  color: var(--muted-color);
   padding-right: 5px;
   font-size:14px;
 }
 
 .meta {
-  color: #aaa;
+  color: var(--muted-color);
   margin: 0 0 10px 0;
 }
 
 .site .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
+  color: var(--subtle-color);
+  border-top: 4px solid var(--border-light-color);
   overflow: hidden;
 }
 
@@ -110,7 +110,7 @@ nav h1, nav h2 {
 #bio {
   margin-top: 10px;
   margin-bottom: 15px;
-  border: dotted #ddd;
+  border: dotted var(--border-color);
   border-width: 1px 0;
   padding-top: 15px;
 }
@@ -121,8 +121,8 @@ nav h1, nav h2 {
 }
 
 #post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border: 1px solid var(--code-border);
+  background-color: var(--code-bg);
   padding: 0 .4em;
   margin-bottom: 20px !important;
 }
@@ -133,8 +133,8 @@ nav h1, nav h2 {
 }
 
 #post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border: 1px solid var(--code-border);
+  background-color: var(--code-bg);
   font-size: 85%;
   padding: 0 .2em;
 }
@@ -158,7 +158,7 @@ nav h1, nav h2 {
 
 .content {
   font: 400 16px/22px "open sans", sans-serif;
-  border-left: 1px solid #DDD;
+  border-left: 1px solid var(--border-color);
   padding-left: 40px;
   padding-top: 25px;
   min-height: 400px;
@@ -170,14 +170,14 @@ nav h1, nav h2 {
 
 .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #EEE;
+  color: var(--subtle-color);
+  border-top: 4px solid var(--border-light-color);
   overflow: hidden;
 }
 
 .aside {
   font-size: 75%;
-  color: #666;
+  color: var(--subtle-color);
 }
 
 #home h2 {
@@ -221,7 +221,7 @@ i.fa-hn {
 .home {
   font-size: 24px;
   float: right;
-  color: #AAA;
+  color: var(--muted-color);
 }
 
 .home:hover {

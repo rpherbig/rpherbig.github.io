@@ -7,10 +7,10 @@ highlight_color: '#3498db'
 social:
   github: rpherbig
   #bitbucket: rpherbig
-  #hacker_news:
+  hacker_news: rpherbig
   #stackexchange:
   #stackoverflow: 1470274
-  twitter: robertherbig
+  twitter: robertherbig # Keep in sync with twitter_username in _config.yml
   #facebook:
   #tumblr:
   linkedin: robertherbig
@@ -20,7 +20,7 @@ social:
 
 # "Hi, I'm _______"
 name: Robert Herbig
-email: robert@rpherbig.com
+email: Robert.P.Herbig@gmail.com
 #tagline: ""
 
 # Toggle "Postings are my own" disclaimer in footer

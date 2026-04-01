@@ -1,12 +1,11 @@
 # Site settings
 title: Robert Herbig
-email: Robert.P.Herbig@gmail.com
 description: >
   I try to improve myself and those around me every day.
 baseurl: ""
 url: "https://www.rpherbig.com"
+# Used by jekyll-seo-tag for Twitter card meta tags. Keep in sync with theme.yml social.twitter
 twitter_username: RobertHerbig
-github_username:  rpherbig
 
 # Build settings
 markdown: kramdown

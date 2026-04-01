@@ -1,7 +1,7 @@
 Follow me:
 <div id="stalker">
   {% if site.data.theme.social.linkedin %}
-  <a title="{{ site.data.theme.name }} on LinkedIn" href="https://www.linkedin.com/in/{{ site.data.theme.social.linkedin }}">
+  <a title="{{ site.data.theme.name }} on LinkedIn" rel="me" href="https://www.linkedin.com/in/{{ site.data.theme.social.linkedin }}">
     <i class="fa-brands fa-linkedin"></i>
   </a>
   {% endif %}
@@ -13,19 +13,19 @@ Follow me:
   {% endif %}
 
   {% if site.data.theme.social.bluesky %}
-  <a title="{{ site.data.theme.social.bluesky }} on Bluesky" href="https://bsky.app/profile/{{ site.data.theme.social.bluesky }}">
+  <a title="{{ site.data.theme.social.bluesky }} on Bluesky" rel="me" href="https://bsky.app/profile/{{ site.data.theme.social.bluesky }}">
     <i class="fa-brands fa-bluesky"></i>
   </a>
   {% endif %}
 
   {% if site.data.theme.social.twitter %}
-  <a title="{{ site.data.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
+  <a title="{{ site.data.theme.social.twitter }} on Twitter" rel="me" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
     <i class="fa-brands fa-twitter"></i>
   </a>
   {% endif %}
 
   {% if site.data.theme.social.github %}
-  <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
+  <a title="{{ site.data.theme.social.github }} on Github" rel="me" href="https://github.com/{{ site.data.theme.social.github }}">
     <i class="fa-brands fa-github"></i>
   </a>
   {% endif %}

@@ -11,6 +11,6 @@ github_username:  rpherbig
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

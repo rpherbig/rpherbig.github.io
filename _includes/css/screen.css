@@ -148,6 +148,10 @@ nav h1, nav h2 {
   font-family: "open sans", sans-serif;
 }
 
+.sidebar #author-photo {
+  border-radius: 50%;
+}
+
 .sidebar p {
   font-weight: 400;
 }

@@ -1,11 +1,11 @@
 # Site settings
 title: Robert Herbig
-email: robert@rpherbig.com
+email: Robert.P.Herbig@gmail.com
 description: >
   I try to improve myself and those around me every day.
 baseurl: ""
 url: "https://www.rpherbig.com"
-twitter_username: rpherbig
+twitter_username: RobertHerbig
 github_username:  rpherbig
 
 # Build settings

@@ -1,17 +1,11 @@
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: rpherbig
-  #bitbucket: rpherbig
   hacker_news: rpherbig
-  #stackexchange:
-  #stackoverflow: 1470274
   twitter: robertherbig # Keep in sync with twitter_username in _config.yml
-  #facebook:
-  #tumblr:
   linkedin: robertherbig
   sessionize: robert-herbig
   bluesky: robertherbig.bsky.social
-  #gplus:
 
 # "Hi, I'm _______"
 name: Robert Herbig

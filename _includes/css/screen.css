@@ -49,12 +49,15 @@ ul {
 
 a {
   color: var(--highlight-color);
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.2s;
 }
 
 a:hover {
   color: var(--highlight-color);
-  text-decoration: underline;
+  text-decoration-color: var(--highlight-color);
 }
 
 a:visited {

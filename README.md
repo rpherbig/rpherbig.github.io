@@ -1,7 +1,7 @@
 rpherbig.github.io
 ==================
 
-It's time I start blogging.
+My personal blog covering software engineering, AI, and leadership.
 
 Spelling/grammar corrections are appreciated. I suggest using a Pull Request.
 

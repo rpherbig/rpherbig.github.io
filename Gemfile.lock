@@ -215,7 +215,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.20.0)
+    json (2.21.2)
     kramdown (2.3.2)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -269,7 +269,6 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (1.1.1)
-    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -279,7 +278,6 @@ PLATFORMS
 DEPENDENCIES
   csv
   github-pages (~> 228)
-  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH

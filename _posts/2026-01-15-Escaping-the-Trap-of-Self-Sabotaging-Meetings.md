@@ -7,7 +7,7 @@ layout: post
 
 ### Given at
 
-* [CodeMash](https://codemash.org/) 2026
+* [CodeMash 2026](https://events.codemash.org/2026CodeMashConference)
 
 ### Abstract
 
